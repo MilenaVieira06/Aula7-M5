@@ -1,1 +1,3 @@
 # Aula7-M5
+
+CRIAÇÃO DO ARRAY, CLASSE E VARIÁVEL.
